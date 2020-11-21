@@ -10,7 +10,7 @@ package Fibonacci;
  * @author anita
  */
 public class Codigo {
-    
+     
     public long tInicio;
     public long tFinal;
     public long tTotal;
